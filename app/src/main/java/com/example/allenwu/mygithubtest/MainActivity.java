@@ -21,7 +21,7 @@ public static final String TAG="Mainactivity";
     }
 
     private  void doMathstuff(){
-
+//In logcat ,  Level: Debug
         int a=10;
         int b=20;
         int total=a+b;
