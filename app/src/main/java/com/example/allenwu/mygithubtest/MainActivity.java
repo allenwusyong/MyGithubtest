@@ -27,4 +27,7 @@ public static final String TAG="Mainactivity";
         int total=a+b;
         Log.d(TAG,"sum---"+total);
     }
+    private void doSomechange(){
+
+    }
 }
